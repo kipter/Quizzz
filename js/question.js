@@ -45,7 +45,7 @@ var questions = [
 		ans: "NodeJs"
 	},
 	{
-		question: "In Programming we can an erros as",
+		question: "In Programming we call an erros as",
 		opt: ["Bug","Problem","Erros","Insect"],
 		ans: "Bug"
 	},
